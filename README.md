@@ -1,2 +1,5 @@
-# sitepoint-telegram-bot
-Code base for Sitepoint article to build bookmark telegram bot
+# telegram-bot
+
+Based on `node-telegram-bot-api`
+
+## npm start
